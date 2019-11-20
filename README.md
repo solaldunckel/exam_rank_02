@@ -5,4 +5,4 @@
 ## Description
 
 First exam of the new 42 cursus. <br>
-You can either get ``get_next_line`` or a simplified ``print_f`` 
+You can either get ``get_next_line`` or a simplified ``ft_print_f`` 
